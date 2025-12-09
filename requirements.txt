@@ -1,1 +1,5 @@
 aiogram==3.4.1
+magic-filter==1.0.12
+yarl==1.9.4
+multidict==6.0.4
+python-dotenv==1.0.1
